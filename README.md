@@ -18,4 +18,4 @@ A front-end clone of the Amazon index page built from scratch to practice struct
 2. Open the `index.html` file directly in your web browser.
 
 ## 👤 Author
-* **MOHD NAFIS ALAM** - nafisalam4556-dotcom
+* **MOHD NAFIS ALAM** - https://github.com/mohdnafisalam
