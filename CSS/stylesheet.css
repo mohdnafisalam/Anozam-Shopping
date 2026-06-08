@@ -20,7 +20,7 @@
     height: 50px;
     width: 114px;
     background-size: cover;
-    background-image: url("amazon_logo.png");
+    background-image: url("ASSETS/amazon_logo.png");
 }
 .border{
     border: 2px solid transparent;
@@ -214,7 +214,7 @@ panel_deal{
 }
 /*hero image*/
 .hero_img{
-    background-image: url("hero_image.jpg");
+    background-image: url("ASSETS/hero_image.jpg");
     background-size: cover;
     height: 350px;
     display: flex;
@@ -267,35 +267,35 @@ panel_deal{
     
 }
 .box1_img{
-    background-image: url("box1_image.jpg");
+    background-image: url("ASSETS/box1_image.jpg");
     background-size: cover;
 }
 .box2_img{
-    background-image: url("box2_image.jpg");
+    background-image: url("ASSETS/box2_image.jpg");
     background-size: cover;
 }
 .box3_img{
-    background-image: url("box3_image.jpg");
+    background-image: url("ASSETS/box3_image.jpg");
     background-size: cover;
 }
 .box4_img{
-    background-image: url("box4_image.jpg");
+    background-image: url("ASSETS/box4_image.jpg");
     background-size: cover;
 }
 .box5_img{
-    background-image: url("box5_image.jpg");
+    background-image: url("ASSETS/box5_image.jpg");
     background-size: cover;
 }
 .box6_img{
-    background-image: url("box6_image.jpg");
+    background-image: url("ASSETS/box6_image.jpg");
     background-size: cover;
 }
 .box7_img{
-    background-image: url("box7_image.jpg");
+    background-image: url("ASSETS/box7_image.jpg");
     background-size: cover;
 }
 .box8_img{
-    background-image: url("box8_image.jpg");
+    background-image: url("ASSETS/box8_image.jpg");
     background-size: cover;
 }
 .box_link{
@@ -364,7 +364,7 @@ panel_deal{
     margin-right:50px;
     width: 95px;
     height: 40px;
-    background-image: url("amazon_logo.png");
+    background-image: url("ASSETS/amazon_logo.png");
     background-size: cover;
 }
 .foot_border{
