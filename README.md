@@ -1,4 +1,4 @@
-# Amazon Homepage Clone
+# E-Commerce Homepage Clone
 
 A front-end clone of the Amazon index page built from scratch to practice structuring a complex website layout.
 
