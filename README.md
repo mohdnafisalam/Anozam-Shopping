@@ -1,6 +1,6 @@
 # E-Commerce Homepage Clone
 
-A front-end clone of the Amazon index page built from scratch to practice structuring a complex website layout.
+A front-end clone of the Anozam index page built from scratch to practice structuring a complex website layout.
 
 ## 📦 Features
 * **Header Navbar:** Includes the logo, delivery location tracker, search bar, language/currency selectors, and shopping cart.
